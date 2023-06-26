@@ -1,0 +1,5 @@
+Bruh you hate me?
+I will now commit:
+Local myself = game.Players.jake75552
+myself:ban("You have killed yourself :skull:")
+end
